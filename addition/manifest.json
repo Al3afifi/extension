@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Basic Addition Extension",
+    "version":  "1.0",
+    "description": "A simple extension to add two numbers.",
+    "action": {
+        "default_popup": "add.html",
+        "default_icon": "addition.png"
+    },
+    "permissions": []
+}
